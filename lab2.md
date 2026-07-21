@@ -29,4 +29,4 @@ No third-party dependencies are required (built strictly using Python standard l
 ### 1. Local Execution (Terminal / Mac)
 
 ```bash
-python3 neuron.py
+python3 lab2.py
