@@ -29,9 +29,8 @@ Ensure Python 3.x and NumPy are installed:
 
 ```bash
 pip install numpy
-
----
 ```
+---
 ## 🌍 Real Life Examples
 
 | Example | How the Perceptron Applies |
