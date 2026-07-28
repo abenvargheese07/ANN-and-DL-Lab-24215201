@@ -30,7 +30,7 @@ No third-party dependencies are required (built strictly using Python standard l
 
 ```bash
 python3 lab2.py
-
+```
 ---
 
 ## 🌍 Real Life Examples
