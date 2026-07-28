@@ -31,7 +31,7 @@ Ensure Python 3.x and NumPy are installed:
 pip install numpy
 
 ---
-
+```
 ## 🌍 Real Life Examples
 
 | Example | How the Perceptron Applies |
