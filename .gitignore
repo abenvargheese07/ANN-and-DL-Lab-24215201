@@ -2,3 +2,5 @@ venv/
 .env
 __pycache__/
 *.dylib
+All_Labs_Explanation.md
+.vscode/
